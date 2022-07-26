@@ -1,0 +1,200 @@
+*{
+    margin:0%;
+    padding:0%;
+    height:100%;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+}
+.outer{
+    margin:0%;
+    height: 100%;
+    width: 100%;
+    
+}
+.headerbox{
+    margin:0%;
+ height:15vh;
+ width:100%;
+ 
+ display: flex;
+align-items: center;
+ background-color:black;
+}
+.prority-box{
+   
+height:10vh;
+width: 36vw;
+margin-left:2vw;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(79, 78, 78);
+}
+.control-box{
+    height:10vh;
+    width: 10vw;
+    margin-left:3%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(79, 78, 78);
+
+}
+.rainbow {
+    background-image: linear-gradient(to left,violet, indigo, blue, green, yellow, orange, red);
+    
+    }
+.color{
+    height:5vh;
+    width:6vw;
+    margin:0.5vw;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    
+    font-weight: 900;
+    
+}
+.pink{
+    background-color: pink;
+}
+.red{
+    background-color: red;
+}
+.lightgreen{
+    background-color: lightgreen;
+}
+.skyblue{
+    background-color: skyblue;
+}
+.white{
+background-color: white;
+}
+.grey{
+background-color: rgb(77, 75, 75);
+}
+
+
+
+
+.imac{
+    height:100%;
+    width:50%;
+    border-radius: 10px;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(79, 78, 78);
+}
+.plus{
+    background-color: red;
+}
+.cross{
+    background-color: red;
+}
+
+
+
+.store{
+    margin:0%;
+    padding:0%;
+    height:100%;
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+   
+    background-color:transparent;
+
+
+}
+
+.info-box{
+    margin:2%;
+    height:25%;
+    width:20%;
+    position: relative;
+   
+background-color: aqua;
+}
+
+.change-color{
+   
+    height:10%;
+    width:100%;
+     
+}
+.lock-box{
+    height:5%;
+    width:100%;
+    font-size: 50%;
+    
+}
+.content-box{
+    height:85%;
+    width:100%;
+    padding:0%;
+     background-color: white;
+}
+.content-box-input{
+    margin:0%;
+    
+    
+    height:100%;
+    width:100%;
+    border: none;
+    background-color: rgb(228, 219, 219);
+    resize: none;
+    outline: none;
+   
+}
+.top-box{
+    margin:10%;
+    padding:0%;
+    height:50%;
+    width:50%; 
+    position: absolute; 
+    top: 15vh;
+    left: 20vw;
+    display:none;
+    background-color: white; 
+     
+}
+.input-box{
+    height:50vh;
+    width:35vw;
+   
+    background-color: lightsteelblue;
+}
+.inp{
+    height:50vh;
+    width:34vw;
+   padding: 10px 10px 10px 10px;
+    background-color:transparent;
+    border:none;
+    resize: none;
+    outline: none;
+    font-size:larger;
+    font-weight: bold;
+    
+}
+.color-select{
+    height:50vh;
+    width:15vw;
+    
+    display:grid;
+    justify-content: center;
+    align-content:center ;
+    background-color:black ;
+    
+}
+.color2{
+    height:7vh;
+    width:9vw;
+   margin:2vh;
+   border-radius: 10px;; 
+}
